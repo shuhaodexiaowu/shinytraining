@@ -1,0 +1,12 @@
+name: shiny1
+title: shiny1
+username:
+account: shuhaodexiaowu
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2672964
+bundleId: 3519355
+url: https://shuhaodexiaowu.shinyapps.io/shiny1/
+when: 1597498282.5198
+asMultiple: FALSE
+asStatic: FALSE
