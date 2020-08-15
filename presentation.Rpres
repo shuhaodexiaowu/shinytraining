@@ -1,0 +1,44 @@
+
+========================================================
+
+Course project shiny application
+
+Shuhao zhang
+
+August  15,2020
+
+
+
+Overvieww
+========================================================
+This app is designed to predict your car's miles per gallon with the mtcars dataset. 
+
+You need to type weight and gross horsepower,moreover you need choose whether it is automatic or manual
+
+
+
+
+Dataset mtcars
+========================================================
+
+In this app, I found the model with the dataset mtcars.  
+The data was extracted from the 1974 Motor Trend US magazine, and comprises fuel consumption and 10 aspects of automobile design and performance for 32 automobiles (1973–74 models).
+
+```{r}
+head(mtcars)
+```
+
+
+Related URL
+========================================================
+
+APP url:
+https://shuhaodexiaowu.shinyapps.io/shiny1/?_ga=2.130944399.1606454487.1597497822-2008318412.1597497822
+
+ui.R and server.R files are available on the Github url:
+https://github.com/shuhaodexiaowu/shinytraining
+
+Thanks for watching
+========================================================
+
+The end
